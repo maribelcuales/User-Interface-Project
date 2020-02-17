@@ -65,8 +65,31 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
-.navigation {
-	color:red;
-	background: pink;
-}
+.entire-content {
+	max-width: 1020px;
+	height: 1536px;
+	margin: auto;
+	position: relative;
+	min-width: 300px;
+  }                        
+  
+  .navigation {
+	padding: 30px;
+  }
+  
+  .navigation a {
+	display: inline-block;
+	text-decoration: none;
+	color: #939393;
+	font-size: 16px; 
+	font-weight: 50;
+	padding: 30px;
+  }
+  
+  .logo {
+	display: inline-block;  
+	padding-left: 70px;
+	height: 40px;  
+  }
+  
 
