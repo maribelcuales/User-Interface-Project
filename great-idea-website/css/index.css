@@ -161,3 +161,12 @@ button {
 	padding-left: 30px;
 	width: 470px;  
 }
+
+.middle-img {
+	display: inline-block;
+	margin: auto;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 40px;
+	width: 100%;
+}
