@@ -209,9 +209,14 @@ button {
 	padding-bottom: 40px;
   }
   
-  .contact .number {
+.contact .number {
 	line-height: 50px;
-  }
-  
+}
+
+footer {
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 80px;
+}
   
 
